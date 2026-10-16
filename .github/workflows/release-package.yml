@@ -1,0 +1,22 @@
+name: Release Package
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  pacote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar codigo
+        uses: actions/checkout@v4
+
+      - name: Zipar repositorio
+        run: git archive --format=zip --output=pacote.zip HEAD
+
+      - name: Guardar o zip
+        uses: actions/upload-artifact@v4
+        with:
+          name: pacote
+          path: pacote.zip
