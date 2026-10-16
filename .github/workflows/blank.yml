@@ -1,16 +1,21 @@
-name: Segundo action
+name: Changelog
 
 on:
   push:
+    branches: [main]
 
 jobs:
-  teste:
+  changelog:
     runs-on: ubuntu-latest
 
     steps:
       - name: Baixar codigo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Executar teste
-        run: echo "Hello world"
+      - name: Gerar changelog
+        run: |
+          echo "## Ultimas alteracoes"
+          git log -10 --pretty=format:"- %s (%an, %ad)" --date=short
         
