@@ -1,6 +1,9 @@
 # Changelog
 
 - Merge branch 'main' of https://github.com/ELTAILS/atividade_de_github_actions2 (Wagner Junior, 2026-10-15)
+- versão 2 do Release Package (Wagner Junior, 2026-10-15)
+- docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-16)
+- Merge branch 'main' of https://github.com/ELTAILS/atividade_de_github_actions2 (Wagner Junior, 2026-10-15)
 - testando versão 1 do RELEASE PACKAGE (Wagner Junior, 2026-10-15)
 - docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-16)
 - testando changelog (Wagner Junior, 2026-10-15)
