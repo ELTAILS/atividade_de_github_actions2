@@ -1,5 +1,7 @@
 # Changelog
 
+- Adicionando o ra (PEN-g-UIM, 2026-10-22)
+- docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-22)
 - Criando um readme mais explicativo, bonito e profissional. (PEN-g-UIM, 2026-10-22)
 - docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-22)
 - Add authors to README.md (PEN-g-UIM, 2026-10-22)
@@ -18,5 +20,3 @@
 - testando funcionamento o CHANGELOG (Wagner Junior, 2026-10-15)
 - Versão do action (Wagner Junior, 2026-10-15)
 - docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-16)
-- verção 2 do action (Wagner Junior, 2026-10-15)
-- verção 1 do changelog (Wagner Junior, 2026-10-15)
