@@ -1,5 +1,7 @@
 # Changelog
 
+- Criando um readme mais explicativo, bonito e profissional. (PEN-g-UIM, 2026-10-22)
+- docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-22)
 - Add authors to README.md (PEN-g-UIM, 2026-10-22)
 - docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-16)
 - Merge branch 'main' of https://github.com/ELTAILS/atividade_de_github_actions2 (Wagner Junior, 2026-10-15)
@@ -18,5 +20,3 @@
 - docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-16)
 - verção 2 do action (Wagner Junior, 2026-10-15)
 - verção 1 do changelog (Wagner Junior, 2026-10-15)
-- Update text from 'texte' to 'teste' (PEN-g-UIM, 2026-10-15)
-- Enviando action do hello world (Wagner Junior, 2026-10-15)
