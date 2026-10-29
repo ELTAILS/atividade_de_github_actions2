@@ -1,5 +1,7 @@
 # Changelog
 
+- Adicionando explicações  sobre nosso blank. (PEN-g-UIM, 2026-10-29)
+- docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-22)
 - Adicionando o ra (PEN-g-UIM, 2026-10-22)
 - docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-22)
 - Criando um readme mais explicativo, bonito e profissional. (PEN-g-UIM, 2026-10-22)
@@ -18,5 +20,3 @@
 - testando changelog (Wagner Junior, 2026-10-15)
 - Merge branch 'main' of https://github.com/ELTAILS/atividade_de_github_actions2 (Wagner Junior, 2026-10-15)
 - testando funcionamento o CHANGELOG (Wagner Junior, 2026-10-15)
-- Versão do action (Wagner Junior, 2026-10-15)
-- docs: atualiza changelog [skip ci] (github-actions[bot], 2026-10-16)
